@@ -1,0 +1,200 @@
+by,[bai],经……；乘
+foot,[fut],脚；足
+bike,[baik],自行车
+bus,[bʌs],公共汽车
+train,[trein],火车
+plane,[plein],飞机
+ship,[ʃip],船；舰
+subway,['sʌbwei],地铁
+how,[hau],怎样；怎么
+go to school,[gəu] [tu:] [sku:l],上学
+then,[ðen],然后；接着
+fifth,[fifθ],第五；五分之一
+traffic,['træfik],交通
+traffic light,[lait],交通灯
+traffic rule,[ru:l],交通规则
+stop,[stɔp],停；停车站
+wait,[weit],等；等待
+remember,[ri'membə],记住
+get to,[get] [tu:],到达
+find,[faind],寻找；找到
+difference,['difərəns],不同;区别
+same,[seim],相同的
+every,['evri],每个;所有的
+country,['kʌntri],国家
+always,['ɔ:lweiz],总是;一直
+mean,[mi:n],意思是
+drive,[draiv],驾驶
+driver,['draivə],驾驶员
+right,[rait],右边的;正确的；准确的
+side,[said],边;面;侧;端
+English,['iŋgliʃ],英国
+Australia,[ɔ'streiliə],澳大利亚
+however,[hau'evə],但是
+left,[left],左边的
+if,[if],如果
+must,[mʌst],必须
+know,[nəu],知道
+library,['laibrəri],图书馆
+post office,[pəust] ['ɔ:fis],邮局
+hospital,['hɔspitl],医院
+cinema,['sinimə],电影院
+bookstore,['bukstɔ:],书店
+science museum,['saiəns] [mju:'zju:m],科学博物馆
+excuse me,[iks'kju:z] [mi:],对不起
+where,[hwɛə],在哪里；到哪里
+please,[pli:z],请
+next to,['nekst] [tu:],与……相邻
+far,[fɑ:],远
+supermarket,[sju:pə'mɑ:kit],超市
+bank,[bæŋk],银行
+after school,['ɑ:ftə] [sku:l],放学以后
+want,[wɔnt],想要
+a pair of,[pɛə],一双
+shoe store,[ʃu:] [stɔ:],鞋店
+get off,[get] [ɔ:f],下车
+minute,['minit],分钟
+north,[nɔ:θ],北
+south,[sauθ],南
+east,[i:st],东
+west,[west],西
+turn,[tə:n],转弯
+right,[rait],右边
+left,[left],左边
+straight,[streit],成直线地
+then,[ðen],然后
+twelfth,[twelfθ],第十二
+party,['pɑ:ti],聚会；晚会
+tell,[tel],告诉
+start,[stɑ:t],开始
+take,[teik],乘坐
+look for,[luk] [fɔ:],寻找
+next week,['nekst] [wi:k],下周
+this morning,[ðis] ['mɔ:niŋ],今天上午
+this afternoon,[ðis] ['ɑ:ftə'nu:n],今天下午
+this evening,[ðis] ['i:vniŋ],今天晚上
+tonight,[tə'nait],今晚
+tomorrow,[tə'mɔ:rəu],明天
+take a trip,[teik] [trip],去旅行
+read a magazine,[ri:d] [mægəzi:n],阅读杂志
+go to the cinema,[gəu] [tu:] [ðə] ['sinimə],去看电影
+theme par,k[θi:m] [pɑ:k],主题公园
+the Great Wall,[ðə] [greit] [wɔ:l],长城
+busy,['bizi],忙碌的
+together,[tə'geðə],一起地
+comic book,['kɔmik] [buk],漫画书
+post card,[pəust] [kɑ:d],明信片
+newspaper,['nju:z peipə],报纸
+magazine,[mægə'zi:n],报纸
+dictionary,['dikʃənəri],词典;字典
+shoe store,[ʃu:] [stɔ:],鞋店
+buy,[bai],买
+fruit stand,[fru:t] [stænd],水果摊
+pet shop,[pet] [ʃɔp],宠物商店
+need,[ni:d],需要
+plant,[plɑ:nt],植物
+else,[els],其他；另外
+shop,[ʃɔp],商店
+hobby,['hɔbi],爱好
+ride a bike,[raid] [baik],骑自行车
+riding a bike,['raidiŋ],骑自行车
+dive,[daiv],跳水
+diving,['daiviŋ],跳水
+play the violin,[plei] [vaiəlin],拉小提琴
+make kites,[meik] [kait],制作风筝
+making kites,['meikiŋ],制作风筝
+collect stamps,[kə'lekt] [stæmp],集邮
+collecting stamps,[kə'lektiŋ],集邮
+show,[ʃəu],展览
+pen pal,[pen] [pæl],笔友
+dear,[diə],亲爱的
+twin,[twin],双胞胎之一
+look,[luk],看上去
+something,['sʌmθiŋ],某事物
+must,[mʌst],一定；肯定
+fun,[fʌn],快乐；乐趣
+with,[wiθ],同……；和……
+TV reporter,[ri'pɔ:tə],电视台记者
+live,[liv],居住；住
+lives,[],居住；住（第三人称单数）
+lives,[laivz],叶子的复数（life）
+teach,[ti:tʃ],教
+teaches,[ti:tʃiz],教（第三人称单数）
+go,[gəu],去
+goes,[],去（第三人称单数）
+watch,[wɔtʃ],看
+watches,[wɔtʃiz],看（第三人称单数）
+read,[ri:d],读；看
+reads,[],读；看（第三人称单数）
+different,['difərənt],不同的
+week,[wi:k],星期；周
+say,[sei],说；讲
+soon,[su:n],不久
+excited,[ik'saitid],兴奋的激动的
+singer,['siŋə],歌唱家；歌手
+writer,['raitə],作家
+actor,['æktə],男演员
+actress,['æktris],女演员
+artist,['ɑ:tist],画家
+TV reporter,[ri'pɔ:tə],电视台记者
+show,[ʃəu],演出；表演；节目
+Hong Kong,[hɔŋ] [kɔŋ],香港
+engineer,[endʒi'niə],工程师
+accountant,[ə'kauntənt],会计
+policeman,[pə'li:smən],（男）警察
+salesperson,[seilz'pə:sən],售货员
+cleaner,['kli:nə],n. 清洁工
+company,['kɔmpəni],公司
+where,[hwεə],在哪里；到哪里
+work,[wə:k],factory['fæktəri]工厂
+design,[di'zain],设计
+tip,[tip],有用的小建议
+help,[help],帮助
+money,['mʌni],钱；金钱
+enjoy,[in'dʒɔi],从…获得乐趣；享受
+tourist,['tuərist],旅行者；旅游者
+way,[wei],路；道
+motor cycle,['məutə] ['saikl],摩托车
+police,[pəli:s],警方；警察部门
+rain,[rein],雨；下雨
+cloud,[klaud],云；云彩
+vapour,['veipə],蒸气；水汽
+sun,[sʌn],太阳
+stream,[stri:m],（小）河；（小）溪
+come from,[kʌm] [frɔm],来自……;从……来
+shine,[ʃain],照耀
+become,[bi'kʌm],变成
+little,['litl],小的
+drop,[drɔp],(液体的)珠；滴
+wake up,[weik] [ʌp],醒；醒来
+feel,['fi:l],感觉到；感受到
+think,[θiŋk],想；思考
+meet,[mi:t],遇见；碰见
+high,[hai],高的
+other,['ʌðə],其他的;另外的;别的
+fall,[fɔ:l],落下;跌落;降落;掉下
+down,[],从高到低；向下
+into,['intu:],进入；到……里面
+come out,[kʌm] [aut],露出;出现
+again,[ə'ɡen],再一次；又；
+seed,[si:d],种子
+soil,[sɔil],土壤
+sprout,[spraut],苗;嫩芽
+plant,[plɑ:nt],植物；种植
+should,[ʃud],应该
+then,[ðen],然后
+garden,['gɑ:dn],花园
+easy,['i:zi],简单的
+put,[put],放；放置
+several,['sevərəl],一些（但不多）;几个
+day,[dei],天
+see,[si:],看见
+pot,[pɔt],锅；碗；瓢；盆
+lovely,['lʌvli],可爱的；美丽的
+make sure,[meik] [suə],核实或查明某事物
+get,[ɡet],得到
+month,[mʌnθ],月份；月
+old,[əuld],（某）年龄的
+still,[stil],仍然；依旧；还是
+hardly,['hɑ:dli],几乎没有；几乎不
+come on,[kʌm] [ɔn],加油

@@ -1,0 +1,72 @@
+boy,[bɔi],男孩
+girl,[ɡə:l],女孩
+teacher,['ti:tʃə],教师
+student,['stju:dənt],学生
+this,[ðis],这个
+my,[maɪ],我的
+friend,[frend],朋友
+I’m=Iam,[],我是
+nice,[nais],好的；愉快的
+good morning,['mɔ:niŋ],早上好
+good afternoon,[ɑ:ftə:'nu:n],下午好
+meet,[mi:t],遇见；碰见
+goodbye,[ɡud'bai],再见
+too,[tu:],也；太
+father,['fɑ:ðə],父亲；爸爸
+dad,[],爸爸（口语）
+mother,['mʌðə],母亲；妈妈
+mom,[],妈妈（口语）
+man,[mæn],男人
+woman,['wumən],女人
+grandmother,['ɡrænd mʌðə],外祖母
+grandma,['ɡrændmɑ:],口语（外）祖母
+grandfather,['ɡrænd fɑ:ðə],（外）祖父
+grandpa,['ɡrændpɑ:],口语（外）祖父
+sister,['sistə],姐妹
+brother,['brʌðə],兄妹
+let’s=let us,[let] [ʌs],让我们
+great,[ɡreit],太好了
+really,['riəli 'ri:li],真地；确切地
+and,[ænd],和；并且
+how,[hau],多么；怎么样
+eleven,[i'levən],十一
+twelve,[twelv],十二
+thirteen,'θə:'ti:n],十三
+fourteen,['fɔ:'ti:n],十四
+fifteen,['fifti:n],十五
+sixteen,['siks'ti:n],十六
+seventeen,[sevən'ti:n],十七
+eighteen,['ei'ti:n],十八
+nineteen,[nain'ti:n],十九
+twenty,['twenti],二十
+how many,[hau] ['meni],多少
+can,[kæn kən],能够；可以
+look at,[luk] [æt],看；瞧
+peach,[pi:tʃ],桃
+pear,[pεə],梨
+orange,['ɔrindʒ],橙子
+watermelon,['wɔ:təmelən],西瓜
+apple,['æpl],苹果
+banana,[bə'nɑ:nə],香蕉
+strawberry,['strɔ:bəri],草莓
+grape,[ɡreip],葡萄
+like,[laik],喜欢
+some,[sʌm],一些；某些
+thanks,[],多谢
+bus,[bʌs],公共汽车
+bike,[baik],自行车
+taxi,['tæksi],出租车
+jeep,[dʒi:p],吉普车
+desk,[desk],课桌
+chair,[tʃεə],椅子
+Walkman,[],随身听
+lamp,[læmp],台灯
+your,[jɔ: jəu ],你的；你们的
+zoo,[zu:],动物园
+small,[smɔ:l],小的
+big,[biɡ],大的
+long,[lɔŋ lɔ:ŋ],长的
+short,[ʃɔ:t],短的；矮的
+tall,[tɔ:l],高的
+giraffe,[dʒi'rɑ:f],长颈鹿
+deer,[diə],鹿

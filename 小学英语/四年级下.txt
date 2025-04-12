@@ -1,0 +1,218 @@
+playground,['pleiɡraund],操场
+garden,['ɡɑ:dn],花园
+office,['ɔfis],办公室
+teachers-office,['ɔfis],教师办公室
+library,['laibrəri],图书馆
+canteen,[kæn'ti:n],食堂
+first,[fə:st],第一
+floor,[flɔ:(r)],层（楼）
+welcome,['welkəm],欢迎
+to,[],给，对
+our,['auə],我们的
+many,['meni],许多的
+visitor,['vizitə],客人;参观者
+there,[ðεə],哪儿;那里
+class,[klɑ:s],班级;课程
+lunch,[lʌntʃ],午餐
+at,[],在
+this way,[],这边
+please,[pli:z],请
+beautiful,['bju:tiful],美丽的
+computer,[kəm'pju:tə],计算机
+board,[bɔ:d],写字板
+fan,[fæn],扇子；电扇
+light,['lait],灯
+this,[ðis],这，这个
+is,[],是
+my,[mai],我的
+that,[ðæt],那;那个
+your,[],你的
+art,[ɑ:t],绘画；艺术；美术
+art room,[ɑ:t] [ru:m],绘画教室
+computer,[kəm'pju:tə],计算机；电脑
+computer room,[],计算机教室
+washroom,['wɔʃrum],卫生间
+music,['mju:zik],音乐
+music room,['mju:zik] [ru:m],音乐教室
+gym,[dʒim],体育馆
+TV room,[],电视机房
+second,['sekənd],第二
+cool,[ku:],订好的;酷的
+teacher's desk,[],讲台
+picture,['piktʃə],图画
+wall,[wɔ:l],墙
+floor,[flɔ:],地板
+yes,[jes],是的
+it,[it],它
+English,['iŋgliʃ],英语；英文
+Englishclass,[],英语课
+class,[klɑ:s],课
+music class,[klɑ:s],音乐课
+P.E. class,[],体育课
+breakfast,['brekfəst],早餐
+dinner,['dinə],晚餐；正餐.
+over,['əuvə],结束
+go,[gəu],去
+goto the playground,['pleiɡraund],去操场
+go home,[həum],回家
+now,[nau],现在
+just a minute,['minit],再多一会
+kid,[kid],小孩;孩子
+run,[rʌn],跑
+one,[wʌn],一
+two,[tu:],二
+three,[θri:],三
+four,[fɔ:],四
+five,[faiv],五
+six,[siks],六
+seven,['sevən],七
+eight,[eit],八
+nine,[nain],九
+ten,[ten],十
+what,[wɔt],什么
+time,[taɪm],时间
+o’clock,[ə’klɔk],...点钟
+get,[ɡet],得到;获得
+get up,[ɡet] [ʌp],起床
+go to school,[sku:l],上学
+go home,[],回家
+go to bed,[],上床睡觉
+ready,['redi],准备好的
+hurry,['hʌri],抓紧;赶快
+math,[mæθ],数学
+Chinese,['tʃai'ni:z],n.语文，汉语;中国人
+china,['tʃainə],n.中国;瓷器
+English,['iŋgliʃ],n.英语;英国人
+England,['iŋglənd],n.英格兰;英国
+P.E.,[],体育
+music,['mju:zik],音乐
+for,[fɔ],为;给
+class,[klɑ:s],班级;课程
+jacket,['dʒækit],夹克衫
+shirt,[ʃə:t],衬衫
+skirt,[skə:t],裙子
+dress,[dres],连衣裙
+sweater,['swetə],毛衣
+T-shirt,[],T恤衫
+whose,[hu:z],谁的
+red,[red],红色的
+blue,[blu:],蓝色的
+yellow,['jeləu],黄色的
+green,[ɡri:n],绿色的
+green beans,[gri:n] [bi:ns],绿豆
+white,[hwait],白色的
+no,[nəu],不;不是
+not,[nɔt],不;不是的
+jeans,[dʒi:nz],牛仔裤
+pants,[pænts],长裤
+parents,['pɛərənts],父母亲
+socks,[sɔks],袜子
+shoes,[ʃuːz],鞋子
+shorts,[ʃɔ:ts],短裤
+these,[ði:z],这些
+so,['səu],如此；那样
+those,[ðəuz],那些
+but,[bʌt],但是
+what for,[wɔt],为什么
+neighbour,['neibə],邻居
+colour,['kʌlə],颜色
+warm,[wɔ:m],暖和的
+cold,[kəuld],寒冷的
+cool,[ku:l],凉爽的;酷的
+hot,[hɔt],炎热的
+weather,['weðə],天气
+weather report,[ri'pɔ:t],天气预报
+wear,[wεə],v.穿
+today,[tə'dei],今天
+put on,[],穿上
+jeans,[dʒi:nz],牛仔裤
+pants,[pænts],长裤
+socks,[sɔks],袜子
+shoes,[ʃuːz],鞋子
+play,[plei],玩;踢
+football,['futbɔ:l],足球
+rainy,['reini],下雨的
+rain,[rein],n雨vi下雨
+snowy,['snəui],下雪的
+snow,[snəu],n雪;vi下雪
+now,[nau],现在
+windy,['windi],有风的
+wind,[wind],n风
+cloudy,['klaudi],多云的
+cloud,[klaud],云
+sunny,['sʌni],晴朗的
+sun,[sʌn],太阳
+hello,[hə'ləu],你好
+hi,[hai],喂，你
+not much,[mʌtʃ],没什么
+New York,[],纽约
+matter,['mætə],事情;麻烦
+have to,[],必须;不得不
+close,[kləuz],关；关上
+bye,[bai],再见(口语)
+colourful,['kʌləful],色彩丰富的
+pretty,['priti],漂亮的;可爱的
+cheap,[tʃi:p],便宜的
+expensive,[iks'pensiv],昂贵的
+sixty,['siksti(:)],六十
+seventy,['sevənti],七十
+hundred,['hʌndrəd],百
+assistant,[ə'sistənt],售货员
+help,[help],帮助
+how much,[],多少钱
+ninety-nine,['nainti],九十九
+big,[biɡ],大的
+small,[smɔ:l],小的
+long,[lɔŋ],长的
+short,[ʃɔ:t],短的；矮的
+sneakers,['sni:kəz],胶底帆布鞋;网球鞋
+slippers,['slipə],拖鞋
+sandals,['sandl],凉鞋
+boots,[bu:ts],靴子
+want,[wɔnt],想要
+pair,[pεə],一双;一对
+a pair of,[],一双
+for,[fɔ:(r)],为；给
+son,[sʌn],儿子
+sun,[sʌn],太阳
+size,[saiz],尺码
+all,right[ɔ:l],[rait]好吧；好的
+take,[teik],买
+them,[ðem],它（他、她）们
+apple,['æpl],苹果
+banana,[bə'nɑ:nə],香蕉
+pear,[peə(r)],梨
+Orange,['ɔrindʒ],橙子
+watermelon,['wɔ:təmelən],西瓜
+are,[ɑ:(r)],是
+they,[ðei],pron.他(她，它)们
+sheep,[ʃip],绵羊
+horse,[hɔ:s],马
+hen,[hen],母鸡
+lamb,[læm],小羊;羔羊
+goat,[ɡəut],山羊
+cow,[kau],奶牛
+farm,[fɑ:m],n.农场;农田
+farmer,['fɑ:mə],n.农夫;农民
+donkey,['dɔŋki],驴子
+key,[ki:],钥匙
+fat,[fæt],胖的
+cat,['kæt],猫
+rabbit,['ræbit],兔子
+pig,[piɡ],猪
+duck,[dʌk],鸭子
+dog,[dɔɡ],狗
+tomoto,[tə'ma:təu],西红柿
+cucumber,['kju:kʌmbə],黄瓜
+potato,[pə'teitəu],土豆
+onion,['ʌnjən],洋葱
+carrot,['kærət],胡萝卜
+fresh,[freʃ],新鲜的
+eleven,[i'levən],十一
+twelve,[twelv],十二
+thirteen,['θə:'ti:n],十三
+fifteen,['fifti:n],十五
+twenty,['twenti],二十
+how many,[],多少
+how much,[],多少
+there,[ðεə],那儿；那里
